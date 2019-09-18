@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  color:rgb(250, 248, 248);
+  background-color: black;
+}
+.section-title{
+  color: inherit;
+  text-shadow: 1px 1px red;
+}
+.p1{
+  padding: 10px;
+}
+.flex-container{
+    
+  display: flex;
+  flex-direction: row;  
+  justify-content: space-evenly;
+}
+.addRemoveButton{
+  text-transform: uppercase;
+  width: 100px;
+  background-color: rgb(129, 131, 133);
+  border: none;
+  border-radius: 4px; 
+  padding: 5px;
+  font-weight: bold;
+  color: rgb(252, 16, 16);
+}
